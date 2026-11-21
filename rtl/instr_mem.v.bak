@@ -1,0 +1,13 @@
+module instr_mem (
+    input [31:0] pc,
+    output [31:0] instr
+);
+    reg [31:0] mem [0:255];
+
+    initial begin
+        // Using absolute path so ModelSim finds it instantly
+        $readmemh("F:/quartus/RV32I_SingleCycle/sw/compiled_hex/program.hex", mem);
+    end
+
+    assign instr = mem[pc[31:2]];
+endmodule

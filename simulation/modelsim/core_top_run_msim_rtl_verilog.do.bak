@@ -1,0 +1,17 @@
+transcript on
+if {[file exists rtl_work]} {
+	vdel -lib rtl_work -all
+}
+vlib rtl_work
+vmap work rtl_work
+
+vlog -vlog01compat -work work +incdir+//Mac/Home/Desktop/RV32I/rtl {//Mac/Home/Desktop/RV32I/rtl/core_top.v}
+vlog -vlog01compat -work work +incdir+//Mac/Home/Desktop/RV32I/rtl {//Mac/Home/Desktop/RV32I/rtl/alu.v}
+vlog -vlog01compat -work work +incdir+//Mac/Home/Desktop/RV32I/rtl {//Mac/Home/Desktop/RV32I/rtl/control.v}
+vlog -vlog01compat -work work +incdir+//Mac/Home/Desktop/RV32I/rtl {//Mac/Home/Desktop/RV32I/rtl/imm_gen.v}
+vlog -vlog01compat -work work +incdir+//Mac/Home/Desktop/RV32I/rtl {//Mac/Home/Desktop/RV32I/rtl/data_mem.v}
+vlog -vlog01compat -work work +incdir+//Mac/Home/Desktop/RV32I/rtl {//Mac/Home/Desktop/RV32I/rtl/pc.v}
+vlog -vlog01compat -work work +incdir+//Mac/Home/Desktop/RV32I/rtl {//Mac/Home/Desktop/RV32I/rtl/mux.v}
+vlog -vlog01compat -work work +incdir+//Mac/Home/Desktop/RV32I/rtl {//Mac/Home/Desktop/RV32I/rtl/reg_file.v}
+vlog -vlog01compat -work work +incdir+//Mac/Home/Desktop/RV32I/rtl {//Mac/Home/Desktop/RV32I/rtl/instr_mem.v}
+
