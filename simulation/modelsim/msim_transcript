@@ -12,101 +12,101 @@
 # 
 # vlog -vlog01compat -work work +incdir+C:/Mac/Home/Desktop/RV32I/rtl {C:/Mac/Home/Desktop/RV32I/rtl/core_top.v}
 # Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 03:36:43 on Nov 22,2026
+# Start time: 12:28:16 on Nov 22,2026
 # vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Mac/Home/Desktop/RV32I/rtl" C:/Mac/Home/Desktop/RV32I/rtl/core_top.v 
 # -- Compiling module core_top
 # 
 # Top level modules:
 # 	core_top
-# End time: 03:36:43 on Nov 22,2026, Elapsed time: 0:00:00
+# End time: 12:28:16 on Nov 22,2026, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # vlog -vlog01compat -work work +incdir+C:/Mac/Home/Desktop/RV32I/rtl {C:/Mac/Home/Desktop/RV32I/rtl/alu.v}
 # Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 03:36:43 on Nov 22,2026
+# Start time: 12:28:16 on Nov 22,2026
 # vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Mac/Home/Desktop/RV32I/rtl" C:/Mac/Home/Desktop/RV32I/rtl/alu.v 
 # -- Compiling module alu
 # 
 # Top level modules:
 # 	alu
-# End time: 03:36:43 on Nov 22,2026, Elapsed time: 0:00:00
+# End time: 12:28:16 on Nov 22,2026, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # vlog -vlog01compat -work work +incdir+C:/Mac/Home/Desktop/RV32I/rtl {C:/Mac/Home/Desktop/RV32I/rtl/control.v}
 # Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 03:36:44 on Nov 22,2026
+# Start time: 12:28:16 on Nov 22,2026
 # vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Mac/Home/Desktop/RV32I/rtl" C:/Mac/Home/Desktop/RV32I/rtl/control.v 
 # -- Compiling module control
 # 
 # Top level modules:
 # 	control
-# End time: 03:36:44 on Nov 22,2026, Elapsed time: 0:00:00
+# End time: 12:28:16 on Nov 22,2026, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # vlog -vlog01compat -work work +incdir+C:/Mac/Home/Desktop/RV32I/rtl {C:/Mac/Home/Desktop/RV32I/rtl/imm_gen.v}
 # Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 03:36:44 on Nov 22,2026
+# Start time: 12:28:16 on Nov 22,2026
 # vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Mac/Home/Desktop/RV32I/rtl" C:/Mac/Home/Desktop/RV32I/rtl/imm_gen.v 
 # -- Compiling module imm_gen
 # 
 # Top level modules:
 # 	imm_gen
-# End time: 03:36:44 on Nov 22,2026, Elapsed time: 0:00:00
+# End time: 12:28:16 on Nov 22,2026, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # vlog -vlog01compat -work work +incdir+C:/Mac/Home/Desktop/RV32I/rtl {C:/Mac/Home/Desktop/RV32I/rtl/data_mem.v}
 # Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 03:36:44 on Nov 22,2026
+# Start time: 12:28:16 on Nov 22,2026
 # vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Mac/Home/Desktop/RV32I/rtl" C:/Mac/Home/Desktop/RV32I/rtl/data_mem.v 
 # -- Compiling module data_mem
 # 
 # Top level modules:
 # 	data_mem
-# End time: 03:36:44 on Nov 22,2026, Elapsed time: 0:00:00
+# End time: 12:28:16 on Nov 22,2026, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # vlog -vlog01compat -work work +incdir+C:/Mac/Home/Desktop/RV32I/rtl {C:/Mac/Home/Desktop/RV32I/rtl/pc.v}
 # Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 03:36:44 on Nov 22,2026
+# Start time: 12:28:16 on Nov 22,2026
 # vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Mac/Home/Desktop/RV32I/rtl" C:/Mac/Home/Desktop/RV32I/rtl/pc.v 
 # -- Compiling module pc
 # 
 # Top level modules:
 # 	pc
-# End time: 03:36:44 on Nov 22,2026, Elapsed time: 0:00:00
+# End time: 12:28:16 on Nov 22,2026, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # vlog -vlog01compat -work work +incdir+C:/Mac/Home/Desktop/RV32I/rtl {C:/Mac/Home/Desktop/RV32I/rtl/mux.v}
 # Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 03:36:44 on Nov 22,2026
+# Start time: 12:28:16 on Nov 22,2026
 # vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Mac/Home/Desktop/RV32I/rtl" C:/Mac/Home/Desktop/RV32I/rtl/mux.v 
 # -- Compiling module mux2
 # 
 # Top level modules:
 # 	mux2
-# End time: 03:36:44 on Nov 22,2026, Elapsed time: 0:00:00
+# End time: 12:28:16 on Nov 22,2026, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # vlog -vlog01compat -work work +incdir+C:/Mac/Home/Desktop/RV32I/rtl {C:/Mac/Home/Desktop/RV32I/rtl/reg_file.v}
 # Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 03:36:44 on Nov 22,2026
+# Start time: 12:28:16 on Nov 22,2026
 # vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Mac/Home/Desktop/RV32I/rtl" C:/Mac/Home/Desktop/RV32I/rtl/reg_file.v 
 # -- Compiling module reg_file
 # 
 # Top level modules:
 # 	reg_file
-# End time: 03:36:44 on Nov 22,2026, Elapsed time: 0:00:00
+# End time: 12:28:16 on Nov 22,2026, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # vlog -vlog01compat -work work +incdir+C:/Mac/Home/Desktop/RV32I/rtl {C:/Mac/Home/Desktop/RV32I/rtl/instr_mem.v}
 # Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 03:36:44 on Nov 22,2026
+# Start time: 12:28:16 on Nov 22,2026
 # vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Mac/Home/Desktop/RV32I/rtl" C:/Mac/Home/Desktop/RV32I/rtl/instr_mem.v 
 # -- Compiling module instr_mem
 # 
 # Top level modules:
 # 	instr_mem
-# End time: 03:36:44 on Nov 22,2026, Elapsed time: 0:00:00
+# End time: 12:28:16 on Nov 22,2026, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # 
 cd C:/Mac/Home/Desktop/RV32I
 # reading C:/intelFPGA_lite/18.1/modelsim_ase/win32aloem/../modelsim.ini
-vlib work
+quit -sim
 vlog rtl/*.v tb/tb_core.v
 # Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
-# Start time: 03:37:05 on Nov 22,2026
+# Start time: 12:29:05 on Nov 22,2026
 # vlog -reportprogress 300 rtl/alu.v rtl/control.v rtl/core_top.v rtl/data_mem.v rtl/imm_gen.v rtl/instr_mem.v rtl/mux.v rtl/pc.v rtl/reg_file.v tb/tb_core.v 
 # -- Compiling module alu
 # -- Compiling module control
@@ -117,28 +117,16 @@ vlog rtl/*.v tb/tb_core.v
 # -- Compiling module mux2
 # -- Compiling module pc
 # -- Compiling module reg_file
-# -- Compiling module tb_core_top
+# -- Compiling module tb_core
 # 
 # Top level modules:
-# 	tb_core_top
-# End time: 03:37:05 on Nov 22,2026, Elapsed time: 0:00:00
+# 	tb_core
+# End time: 12:29:05 on Nov 22,2026, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 vsim -voptargs=+acc work.tb_core
 # vsim -voptargs="+acc" work.tb_core 
-# Start time: 03:37:05 on Nov 22,2026
-# ** Error: (vsim-3170) Could not find 'tb_core'.
-#         Searched libraries:
-#             C:/Mac/Home/Desktop/RV32I/work
-# Error loading design
-add wave -r /*
-run -all
-# End time: 03:37:06 on Nov 22,2026, Elapsed time: 0:00:01
-# Errors: 1, Warnings: 0
-# No Design Loaded!
-vsim -voptargs=+acc work.tb_core_top
-# vsim -voptargs="+acc" work.tb_core_top 
-# Start time: 03:38:28 on Nov 22,2026
-# Loading work.tb_core_top
+# Start time: 12:29:05 on Nov 22,2026
+# Loading work.tb_core
 # Loading work.core_top
 # Loading work.pc
 # Loading work.instr_mem
@@ -152,9 +140,9 @@ add wave -r /*
 run -all
 # ** Warning: (vsim-WLF-5000) WLF file currently in use: vsim.wlf
 #           File in use by: m.abdullahelahi  Hostname: MABDULLAHELECC7  ProcessID: 5348
-#           Attempting to use alternate WLF file "./wlft700nfc".
+#           Attempting to use alternate WLF file "./wlftrz1w6y".
 # ** Warning: (vsim-WLF-5001) Could not open WLF file: vsim.wlf
-#           Using alternate file: ./wlft700nfc
+#           Using alternate file: ./wlftrz1w6y
 # ==================================================
 #    RV32I Full Core Verification (37 instructions)  
 # ==================================================
@@ -196,5 +184,368 @@ run -all
 # Core Summary: 34 PASSED, 0 FAILED
 # ==================================================
 # ** Note: $stop    : tb/tb_core.v(230)
-#    Time: 707 ns  Iteration: 0  Instance: /tb_core_top
-# Break in Module tb_core_top at tb/tb_core.v line 230
+#    Time: 707 ns  Iteration: 0  Instance: /tb_core
+# Break in Module tb_core at tb/tb_core.v line 230
+do ./extras/wave_pages.do
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# ==================================================
+#    RV32I Full Core Verification (37 instructions)  
+# ==================================================
+# [PASS] x0 = 0x00000000 (0)
+# [PASS] x1 = 0x0000000a (10)
+# [PASS] x2 = 0xfffffffd (-3)
+# [PASS] x3 = 0x00000004 (4)
+# [PASS] x4 = 0x12345000 (305418240)
+# [PASS] x5 = 0x00001010 (4112)
+# [PASS] x6 = 0x00000007 (7)
+# [PASS] x7 = 0x0000000d (13)
+# [PASS] x8 = 0x000000a0 (160)
+# [PASS] x9 = 0x00000001 (1)
+# [PASS] x10 = 0x00000000 (0)
+# [PASS] x11 = 0xfffffff7 (-9)
+# [PASS] x12 = 0x0fffffff (268435455)
+# [PASS] x13 = 0xffffffff (-1)
+# [PASS] x14 = 0xffffffff (-1)
+# [PASS] x15 = 0x00000008 (8)
+# [PASS] x16 = 0x00000001 (1)
+# [PASS] x17 = 0x00000001 (1)
+# [PASS] x18 = 0x0000005f (95)
+# [PASS] x19 = 0x0000003a (58)
+# [PASS] x20 = 0x000000fd (253)
+# [PASS] x21 = 0x00000050 (80)
+# [PASS] x22 = 0x0000000f (15)
+# [PASS] x23 = 0xfffffffe (-2)
+# [PASS] x24 = 0x000a0afd (658173)
+# [PASS] x25 = 0xfffffffd (-3)
+# [PASS] x26 = 0x000000fd (253)
+# [PASS] x27 = 0xfffffffd (-3)
+# [PASS] x28 = 0x0000fffd (65533)
+# [PASS] x29 = 0x000000e8 (232)
+# [PASS] x30 = 0x00000060 (96)
+# [PASS] x31 = 0x000000f4 (244)
+# [PASS] dmem[0] = 0x000a0afd
+# [PASS] dmem[1] = 0xfffffffd
+# ==================================================
+# Core Summary: 34 PASSED, 0 FAILED
+# ==================================================
+# ** Note: $stop    : tb/tb_core.v(230)
+#    Time: 707 ns  Iteration: 0  Instance: /tb_core
+# Break in Module tb_core at tb/tb_core.v line 230
+# 0 ps
+# 65 ns
+page2
+# {65 ns} {165 ns}
+page3
+# {165 ns} {245 ns}
+page4
+# {245 ns} {335 ns}
+page5
+# {335 ns} {515 ns}
+page6
+# {505 ns} {560 ns}
+do C:/Mac/Home/Desktop/RV32I/extras/run_unit.do
+unit rtl/alu.v tb/tb_alu.v tb_alu
+# Cannot change directory while a simulation is in progress.
+# Use the "quit -sim" command to unload the design first.
+quit -sim
+# End time: 12:54:48 on Nov 22,2026, Elapsed time: 0:25:43
+# Errors: 1, Warnings: 2
+unit rtl/alu.v tb/tb_alu.v tb_alu
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 12:54:51 on Nov 22,2026
+# vlog -reportprogress 300 rtl/alu.v tb/tb_alu.v 
+# -- Compiling module alu
+# -- Compiling module tb_alu
+# 
+# Top level modules:
+# 	tb_alu
+# End time: 12:54:51 on Nov 22,2026, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vsim -voptargs="+acc" work.tb_alu 
+# Start time: 12:54:51 on Nov 22,2026
+# Loading work.tb_alu
+# Loading work.alu
+# ** Warning: (vsim-WLF-5000) WLF file currently in use: vsim.wlf
+#           File in use by: m.abdullahelahi  Hostname: MABDULLAHELECC7  ProcessID: 5348
+#           Attempting to use alternate WLF file "./wlftnmbvev".
+# ** Warning: (vsim-WLF-5001) Could not open WLF file: vsim.wlf
+#           Using alternate file: ./wlftnmbvev
+# [PASS] ADD -> res=0000000f
+# [PASS] SUB Zero -> res=00000000
+# [PASS] AND -> res=00000000
+# [PASS] OR -> res=0000000f
+# [PASS] XOR -> res=0000000c
+# [PASS] SLT (-10<5) -> res=00000001
+# [PASS] SLTU(-10<5) -> res=00000000
+# [PASS] SLL -> res=00000010
+# [PASS] SRL -> res=3ffffffc
+# [PASS] SRA -> res=fffffffc
+# [PASS] PASS_B -> res=12345000
+# ALU Summary: 11 PASSED, 0 FAILED
+# ** Note: $stop    : tb/tb_alu.v(50)
+#    Time: 110 ns  Iteration: 0  Instance: /tb_alu
+# Break in Module tb_alu at tb/tb_alu.v line 50
+# 0
+unit rtl/pc.v tb/tb_pc.v tb_pc
+# Cannot change directory while a simulation is in progress.
+# Use the "quit -sim" command to unload the design first.
+unit rtl/instr_mem.v tb/tb_instr_mem.v tb_instr_mem
+# Cannot change directory while a simulation is in progress.
+# Use the "quit -sim" command to unload the design first.
+unit rtl/reg_file.v tb/tb_reg_file.v tb_reg_file
+# Cannot change directory while a simulation is in progress.
+# Use the "quit -sim" command to unload the design first.
+unit rtl/alu.v tb/tb_alu.v tb_alu
+# Cannot change directory while a simulation is in progress.
+# Use the "quit -sim" command to unload the design first.
+unit rtl/imm_gen.v tb/tb_imm_gen.v tb_imm_gen
+# Cannot change directory while a simulation is in progress.
+# Use the "quit -sim" command to unload the design first.
+unit rtl/control.v tb/tb_control.v tb_control
+# Cannot change directory while a simulation is in progress.
+# Use the "quit -sim" command to unload the design first.
+unit rtl/data_mem.v tb/tb_data_mem.v tb_data_mem
+# Cannot change directory while a simulation is in progress.
+# Use the "quit -sim" command to unload the design first.
+unit rtl/mux.v tb/tb_mux.v tb_mux
+# Cannot change directory while a simulation is in progress.
+# Use the "quit -sim" command to unload the design first.
+quit -sim
+# End time: 13:37:05 on Nov 22,2026, Elapsed time: 0:42:14
+# Errors: 8, Warnings: 2
+unit rtl/pc.v tb/tb_pc.v tb_pc
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 13:37:11 on Nov 22,2026
+# vlog -reportprogress 300 rtl/pc.v tb/tb_pc.v 
+# -- Compiling module pc
+# -- Compiling module tb_pc
+# 
+# Top level modules:
+# 	tb_pc
+# End time: 13:37:11 on Nov 22,2026, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vsim -voptargs="+acc" work.tb_pc 
+# Start time: 13:37:11 on Nov 22,2026
+# Loading work.tb_pc
+# Loading work.pc
+# ** Warning: (vsim-WLF-5000) WLF file currently in use: vsim.wlf
+#           File in use by: m.abdullahelahi  Hostname: MABDULLAHELECC7  ProcessID: 5348
+#           Attempting to use alternate WLF file "./wlfti8ntw2".
+# ** Warning: (vsim-WLF-5001) Could not open WLF file: vsim.wlf
+#           Using alternate file: ./wlfti8ntw2
+# [PASS] Async Reset | pc_current = 00000000
+# [PASS] Update to 0x04 | pc_current = 00000004
+# [PASS] Update to 0x08 | pc_current = 00000008
+# [PASS] Branch Jump 0x40 | pc_current = 00000040
+# [PASS] Mid-cycle Reset | pc_current = 00000000
+# PC Summary: 5 PASSED, 0 FAILED
+# ** Note: $stop    : tb/tb_pc.v(51)
+#    Time: 39 ns  Iteration: 0  Instance: /tb_pc
+# Break in Module tb_pc at tb/tb_pc.v line 51
+# 0
+quit -sim
+# End time: 13:38:06 on Nov 22,2026, Elapsed time: 0:00:55
+# Errors: 0, Warnings: 2
+unit rtl/instr_mem.v tb/tb_instr_mem.v tb_instr_mem
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 13:38:09 on Nov 22,2026
+# vlog -reportprogress 300 rtl/instr_mem.v tb/tb_instr_mem.v 
+# -- Compiling module instr_mem
+# -- Compiling module tb_instr_mem
+# 
+# Top level modules:
+# 	tb_instr_mem
+# End time: 13:38:09 on Nov 22,2026, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vsim -voptargs="+acc" work.tb_instr_mem 
+# Start time: 13:38:09 on Nov 22,2026
+# Loading work.tb_instr_mem
+# Loading work.instr_mem
+# ** Warning: (vsim-WLF-5000) WLF file currently in use: vsim.wlf
+#           File in use by: m.abdullahelahi  Hostname: MABDULLAHELECC7  ProcessID: 5348
+#           Attempting to use alternate WLF file "./wlft5nwh79".
+# ** Warning: (vsim-WLF-5001) Could not open WLF file: vsim.wlf
+#           Using alternate file: ./wlft5nwh79
+# [PASS] PC=00000000 -> instr=00500093
+# [PASS] PC=00000004 -> instr=00a00113
+# [PASS] PC=00000008 -> instr=002081b3
+# [PASS] PC=0000000c -> instr=00302023
+# InstrMem Summary: 4 PASSED, 0 FAILED
+# ** Note: $stop    : tb/tb_instr_mem.v(42)
+#    Time: 20 ns  Iteration: 0  Instance: /tb_instr_mem
+# Break in Module tb_instr_mem at tb/tb_instr_mem.v line 42
+# 0
+quit -sim
+# End time: 13:39:02 on Nov 22,2026, Elapsed time: 0:00:53
+# Errors: 0, Warnings: 2
+unit rtl/reg_file.v tb/tb_reg_file.v tb_reg_file
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 13:39:04 on Nov 22,2026
+# vlog -reportprogress 300 rtl/reg_file.v tb/tb_reg_file.v 
+# -- Compiling module reg_file
+# -- Compiling module tb_reg_file
+# 
+# Top level modules:
+# 	tb_reg_file
+# End time: 13:39:04 on Nov 22,2026, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vsim -voptargs="+acc" work.tb_reg_file 
+# Start time: 13:39:04 on Nov 22,2026
+# Loading work.tb_reg_file
+# Loading work.reg_file
+# ** Warning: (vsim-WLF-5000) WLF file currently in use: vsim.wlf
+#           File in use by: m.abdullahelahi  Hostname: MABDULLAHELECC7  ProcessID: 5348
+#           Attempting to use alternate WLF file "./wlftatdnq9".
+# ** Warning: (vsim-WLF-5001) Could not open WLF file: vsim.wlf
+#           Using alternate file: ./wlftatdnq9
+# [PASS] 0 Hardwired Zero | x0=00000000, x0=00000000
+# [PASS] al Read x5 & x10 | x5=12345678, x10=aabbccdd
+# [PASS] ite=0 Protection | x5=12345678, x0=00000000
+# RegFile Summary: 3 PASSED, 0 FAILED
+# ** Note: $stop    : tb/tb_reg_file.v(72)
+#    Time: 48 ns  Iteration: 0  Instance: /tb_reg_file
+# Break in Module tb_reg_file at tb/tb_reg_file.v line 72
+# 0
+
+quit-sim
+# invalid command name "quit-sim"
+quit -sim
+# End time: 13:39:48 on Nov 22,2026, Elapsed time: 0:00:44
+# Errors: 1, Warnings: 2
+unit rtl/imm_gen.v tb/tb_imm_gen.v tb_imm_gen
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 13:39:50 on Nov 22,2026
+# vlog -reportprogress 300 rtl/imm_gen.v tb/tb_imm_gen.v 
+# -- Compiling module imm_gen
+# -- Compiling module tb_imm_gen
+# 
+# Top level modules:
+# 	tb_imm_gen
+# End time: 13:39:50 on Nov 22,2026, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vsim -voptargs="+acc" work.tb_imm_gen 
+# Start time: 13:39:50 on Nov 22,2026
+# Loading work.tb_imm_gen
+# Loading work.imm_gen
+# ** Warning: (vsim-WLF-5000) WLF file currently in use: vsim.wlf
+#           File in use by: m.abdullahelahi  Hostname: MABDULLAHELECC7  ProcessID: 5348
+#           Attempting to use alternate WLF file "./wlft4rw7t5".
+# ** Warning: (vsim-WLF-5001) Could not open WLF file: vsim.wlf
+#           Using alternate file: ./wlft4rw7t5
+# [PASS] I-Type (-16) -> imm=fffffff0
+# [PASS] S-Type (-4) -> imm=fffffffc
+# [PASS] B-Type (-8) -> imm=fffffff8
+# [PASS] U-Type (LUI) -> imm=12345000
+# [PASS] J-Type (-8) -> imm=fffffff8
+# ImmGen Summary: 5 PASSED, 0 FAILED
+# ** Note: $stop    : tb/tb_imm_gen.v(39)
+#    Time: 25 ns  Iteration: 0  Instance: /tb_imm_gen
+# Break in Module tb_imm_gen at tb/tb_imm_gen.v line 39
+# 0
+quit -sim
+# End time: 13:40:30 on Nov 22,2026, Elapsed time: 0:00:40
+# Errors: 0, Warnings: 2
+unit rtl/control.v tb/tb_control.v tb_control
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 13:40:31 on Nov 22,2026
+# vlog -reportprogress 300 rtl/control.v tb/tb_control.v 
+# -- Compiling module control
+# -- Compiling module tb_control
+# 
+# Top level modules:
+# 	tb_control
+# End time: 13:40:31 on Nov 22,2026, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vsim -voptargs="+acc" work.tb_control 
+# Start time: 13:40:31 on Nov 22,2026
+# Loading work.tb_control
+# Loading work.control
+# ** Warning: (vsim-WLF-5000) WLF file currently in use: vsim.wlf
+#           File in use by: m.abdullahelahi  Hostname: MABDULLAHELECC7  ProcessID: 5348
+#           Attempting to use alternate WLF file "./wlftvtvydv".
+# ** Warning: (vsim-WLF-5001) Could not open WLF file: vsim.wlf
+#           Using alternate file: ./wlftvtvydv
+# [PASS] R-Type (op=33)
+# [PASS] I-ALU (op=13)
+# [PASS] Load (op=03)
+# [PASS] Store (op=23)
+# [PASS] Branch (op=63)
+# [PASS] LUI (op=37)
+# [PASS] AUIPC (op=17)
+# [PASS] JAL (op=6f)
+# [PASS] JALR (op=67)
+# [PASS] SYSTEM (op=73)
+# Control Summary: 10 PASSED, 0 FAILED
+# ** Note: $stop    : tb/tb_control.v(49)
+#    Time: 50 ns  Iteration: 0  Instance: /tb_control
+# Break in Module tb_control at tb/tb_control.v line 49
+# 0
+
+quit -sim
+# End time: 13:41:11 on Nov 22,2026, Elapsed time: 0:00:40
+# Errors: 0, Warnings: 2
+unit rtl/data_mem.v tb/tb_data_mem.v tb_data_mem
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 13:41:12 on Nov 22,2026
+# vlog -reportprogress 300 rtl/data_mem.v tb/tb_data_mem.v 
+# -- Compiling module data_mem
+# -- Compiling module tb_data_mem
+# 
+# Top level modules:
+# 	tb_data_mem
+# End time: 13:41:12 on Nov 22,2026, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vsim -voptargs="+acc" work.tb_data_mem 
+# Start time: 13:41:13 on Nov 22,2026
+# Loading work.tb_data_mem
+# Loading work.data_mem
+# ** Warning: (vsim-WLF-5000) WLF file currently in use: vsim.wlf
+#           File in use by: m.abdullahelahi  Hostname: MABDULLAHELECC7  ProcessID: 5348
+#           Attempting to use alternate WLF file "./wlftc77gay".
+# ** Warning: (vsim-WLF-5001) Could not open WLF file: vsim.wlf
+#           Using alternate file: ./wlftc77gay
+# [PASS] LW -> 80f07f01
+# [PASS] xF0 -> sign-ext) -> fffffff0
+# [PASS] xF0 -> zero-ext) -> 000000f0
+# [PASS]  0x80F0 -> sign) -> ffff80f0
+# [PASS]  0x80F0 -> zero) -> 000080f0
+# [PASS] LW after SB -> 80f0aa01
+# [PASS] LW after SH -> 1234aa01
+# DataMem Summary: 7 PASSED, 0 FAILED
+# ** Note: $stop    : tb/tb_data_mem.v(57)
+#    Time: 48 ns  Iteration: 0  Instance: /tb_data_mem
+# Break in Module tb_data_mem at tb/tb_data_mem.v line 57
+# 0
+
+quit -sim
+# End time: 13:41:55 on Nov 22,2026, Elapsed time: 0:00:42
+# Errors: 0, Warnings: 2
+unit rtl/mux.v tb/tb_mux.v tb_mux
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 13:41:58 on Nov 22,2026
+# vlog -reportprogress 300 rtl/mux.v tb/tb_mux.v 
+# -- Compiling module mux2
+# -- Compiling module tb_mux
+# 
+# Top level modules:
+# 	tb_mux
+# End time: 13:41:58 on Nov 22,2026, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vsim -voptargs="+acc" work.tb_mux 
+# Start time: 13:41:58 on Nov 22,2026
+# Loading work.tb_mux
+# Loading work.mux2
+# ** Warning: (vsim-WLF-5000) WLF file currently in use: vsim.wlf
+#           File in use by: m.abdullahelahi  Hostname: MABDULLAHELECC7  ProcessID: 5348
+#           Attempting to use alternate WLF file "./wlftw0ndcr".
+# ** Warning: (vsim-WLF-5001) Could not open WLF file: vsim.wlf
+#           Using alternate file: ./wlftw0ndcr
+# [PASS] sel=0 -> y=11112222
+# [PASS] sel=1 -> y=aaaabbbb
+# Mux2 Summary: 2 PASSED, 0 FAILED
+# ** Note: $stop    : tb/tb_mux.v(24)
+#    Time: 10 ns  Iteration: 0  Instance: /tb_mux
+# Break in Module tb_mux at tb/tb_mux.v line 24
+# 0

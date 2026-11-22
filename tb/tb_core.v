@@ -1,7 +1,7 @@
 `timescale 1ns/1ps
 
 
-module tb_core_top;
+module tb_core;
     reg clk;
     reg rst;
 
