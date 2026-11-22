@@ -1,0 +1,33 @@
+
+# Quartus Prime generated directories & files
+db/
+incremental_db/
+output_files/
+greybox_tmp/
+*.rpt
+*.summary
+*.smsg
+*.pin
+*.jdi
+*.sof
+*.pof
+*.qws
+*.bak
+
+# ModelSim generated directories & files
+simulation/
+work/
+rtl_work/
+transcript
+msim_transcript
+*.wlf
+wlft*
+vsim.dbg
+modelsim.ini
+
+# macOS
+.DS_Store
+EOF
+
+# 2. Remove the already-staged build folders from Git tracking (keeps files on your Mac)
+git rm -rf --cached db incremental_db output_files simulation work wlft* vsim.wlf .DS_Store sw/.DS_Store sw/compiled_hex/.DS_Store "*.bak" core_top_nativelink_simulation.rpt
